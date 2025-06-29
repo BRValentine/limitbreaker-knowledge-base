@@ -1,0 +1,38 @@
+[
+    {
+        "stage": "repair",
+        "action": "dispute_negative_item",
+        "description": "Dispute incorrect late payments with Experian to boost your score.",
+        "referral_link": "https://example.com/dispute-tool"
+    },
+    {
+        "stage": "repair",
+        "action": "remove_inquiry",
+        "description": "Challenge unauthorized hard inquiries to clean your report.",
+        "referral_link": "https://example.com/inquiry-removal"
+    },
+    {
+        "stage": "build",
+        "action": "open_secured_card",
+        "description": "Get a secured credit card to establish a payment history.",
+        "referral_link": "https://example.com/secured-card"
+    },
+    {
+        "stage": "build",
+        "action": "become_authorized_user",
+        "description": "Join a trusted person’s credit card as an authorized user to piggyback their good credit.",
+        "referral_link": "https://example.com/authorized-user-service"
+    },
+    {
+        "stage": "leverage",
+        "action": "business_setup",
+        "description": "Set up an LLC to run credit through and acquire assets like crypto or real estate.",
+        "details": "Our flat-fee service manages taxes, sales, and operations to thicken your credit file."
+    },
+    {
+        "stage": "leverage",
+        "action": "asset_acquisition",
+        "description": "Use business credit to buy high-return assets, qualifying for bigger loans.",
+        "details": "We guide you to assets that outpace interest costs."
+    }
+]

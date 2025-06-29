@@ -1,0 +1,2 @@
+# Allow specific files  *.py  !scripts/transcript_fetcher.py  *.pem  *.key  *.PNG  *.json  *.log  *.mp4  *.pdf  *.docx  *.xlsx  .env  data/  markdown_output/  $RECYCLE.BIN/  System Volume Information/ 
+*.pem  *.PNG  *.json  *.log  *.mp4  *.pdf  *.docx  *.xlsx  .env  data/  markdown_output/  markdown_files/  $RECYCLE.BIN/  System Volume Information/  bot.py  drive_access.py  requirements.txt  master_prompt.txt 
